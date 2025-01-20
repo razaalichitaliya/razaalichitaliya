@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Razaali Chitaliya
 
 ## 🌟 About Me
-I'm a passionate student, coder, and lifelong learner diving into Web Development.
+I'm a passionate student, coder, and lifelong learner diving into Software Development.
 
 ## 💻 Skills
 - Programming Languages: C, C++, Java, PHP, PL/SQL,Python
