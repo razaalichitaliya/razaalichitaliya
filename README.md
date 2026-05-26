@@ -9,7 +9,7 @@ I'm a passionate student, coder, and lifelong learner diving into Software Devel
 
 ## 📫 Reach Me
 - Email: [ali241374@gmail.com](mailto:ali241374@gmail.com)
-- LinkedIn: [razaali-chitaliya-591569305](https://www.linkedin.com/in/razaali-chitaliya/)
+- LinkedIn: [razaali-chitaliya](https://www.linkedin.com/in/razaali-chitaliya/)
 
 ## 💡 Tech Enthusiast
 I love exploring new technologies and sharing knowledge with others. Always eager to collaborate on exciting projects!
